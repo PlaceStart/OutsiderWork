@@ -7,6 +7,6 @@
 # Credits
 @marcan - he made this but don't nag him to keep working on this.
 
-@trosh - marcan's board2png.py is 'a simplified, older, slightly fixed version of that.'
+@trosh - marcan's board2png.py is 'a simplified, older, slightly fixed version of [that](https://github.com/trosh/rplace).'
 
 
